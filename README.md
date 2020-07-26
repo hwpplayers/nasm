@@ -15,3 +15,5 @@ wishing to improve their lovely assembler.
 Visit our [nasm.us](https://www.nasm.us/) website for more details.
 
 With best regards, the NASM crew.
+
+* to learn how NASM works 
